@@ -1,5 +1,5 @@
 
-function convertTemp (){
+function convertTemp (tmp, scale){
 
     let tmp = prompt("Enter the temperature");
     let scale = prompt("Enter F or C");
